@@ -36,3 +36,5 @@ git checkout [commit-id/branch-name]
 git revert --no-edit
 
 git reset --hard
+
+testing out cam
