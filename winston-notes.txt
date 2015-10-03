@@ -29,4 +29,6 @@ git diff
 
 git branch
 
+git merge
+
 git checkout
