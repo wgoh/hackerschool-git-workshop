@@ -31,4 +31,4 @@ git branch
 
 git merge
 
-git checkout
+git checkout [commit-id/branch-name]
