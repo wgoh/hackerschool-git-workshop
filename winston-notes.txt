@@ -23,12 +23,10 @@ git add
 git commit -m 'message'
 
 git log
-
-git log --oneline
+	--oneline
 
 git diff
 
 git branch
-	gives a list of all branches in the repo
 
 git checkout
