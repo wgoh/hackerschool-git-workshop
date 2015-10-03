@@ -12,3 +12,14 @@ mkdir [directory-name]
 
 touch [filename.extension]
 	creates a new file with name [filename.extension]
+
+git init
+	create a new git repo
+
+git status
+
+git add
+
+git commit -m 'message'
+
+git log
